@@ -1,5 +1,5 @@
 # Vue.js-Examples
-Vue.js 입문 예제 실습
+Vue.js 입문 예제 실습을 위한 Repository
 
 
 > "Vue.js의 초점은 더 많은 사람들이 쉽게 웹 앱을 만들 수 있도록 도와주는 데 있다." - Evan Yu
